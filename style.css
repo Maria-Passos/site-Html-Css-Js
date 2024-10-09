@@ -7,7 +7,7 @@ body{
 }
 h1{
 	text-align:center;
-	color:#333;
+	color:#007bff;/*Azul*/
 
 }
 ul{
@@ -15,5 +15,6 @@ ul{
 	padding: 0;
 }
 li{
+	color:#28a745;/*Verde*/
 	margin-bottom: 10px;
 }
